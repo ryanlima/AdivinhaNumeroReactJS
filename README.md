@@ -1,2 +1,0 @@
-# AdivinhaNumeroReactJS
-Created with CodeSandbox
